@@ -1,0 +1,2 @@
+{"timestamp":"2026-02-20T09:22:01","source":"cloud","provider":"aws","eventName":"AttachUserPolicy","userIdentity":"admin01","resource":"arn:aws:iam::123456789012:user/admin01","sourceIPAddress":"10.0.0.10"}
+{"timestamp":"2026-02-20T03:36:10","source":"cloud","provider":"aws","eventName":"CreateAccessKey","userIdentity":"admin02","resource":"arn:aws:iam::123456789012:user/admin02","sourceIPAddress":"10.0.0.77"}

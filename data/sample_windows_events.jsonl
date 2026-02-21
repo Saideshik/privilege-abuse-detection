@@ -1,0 +1,5 @@
+{"timestamp":"2026-02-20T09:15:12","source":"windows","event_id":4624,"user":"admin01","host":"dc01","logon_type":2,"ip":"10.0.0.10"}
+{"timestamp":"2026-02-20T09:16:02","source":"windows","event_id":4672,"user":"admin01","host":"dc01","privileges":["SeDebugPrivilege","SeTcbPrivilege"]}
+{"timestamp":"2026-02-20T09:18:44","source":"windows","event_id":4688,"user":"admin01","host":"dc01","process":"powershell.exe","command_line":"powershell -NoP -W Hidden -enc SQBFAFgA..."}
+{"timestamp":"2026-02-20T02:41:10","source":"windows","event_id":4624,"user":"admin02","host":"fileserver01","logon_type":3,"ip":"10.0.0.77"}
+{"timestamp":"2026-02-20T02:42:01","source":"windows","event_id":4688,"user":"admin02","host":"fileserver01","process":"cmd.exe","command_line":"cmd.exe /c net user tempadmin P@ssw0rd /add"}
